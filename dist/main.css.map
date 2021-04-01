@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://webpack-complete-implementation/./src/App.css"],"names":[],"mappings":"AAAA;IACI,UAAU;AACd,C","file":"main.css","sourcesContent":["h1{\n    color:grey;\n}"],"sourceRoot":""}
